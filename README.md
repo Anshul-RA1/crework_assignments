@@ -1,6 +1,6 @@
 # crework_assignments
 
-Being a part of Cre Work, we will be getting assignment on a weekly basis. So, here I am with my week one assignment i.e. Create a Sign Up and Login Page without using CSS. So , basically it's just a layout of login and sign up page using HTML only. Below are the snap shots of SignUp , Login and Password Reset pages.
+Being a part of CreWork, we will be getting assignment on a weekly basis. It's a Six Month full-stack Web development course. So, here I am with my week one assignment i.e. Create a Sign Up and Login Page without using CSS. So, basically it's just a layout of login and sign up page using HTML only. Below are the snap shots of SignUp , Login and Password Reset pages.
 
 ![image](https://user-images.githubusercontent.com/65460472/180640439-1fa550eb-6816-4963-baeb-4f05bff9ca2b.png)
 
